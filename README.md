@@ -14,7 +14,7 @@ Focused on clean code, problem-solving, and constantly leveling up in the IT wor
 ---
 
 ## 📚 Currently Learning  
-- Machine Learning Engineering  
+- Machine Learning 
 - Exploring advanced concepts and projects in Python  
 
 ---
